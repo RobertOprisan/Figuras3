@@ -1,5 +1,6 @@
-package PACKAGE_NAME;
 public class Figuras {
-  int x = 2;
-  int y = 2;
+    public static void main(String[] args) {
+
+        System.out.println();
+    }
 }
